@@ -1,0 +1,1093 @@
+fileFormatVersion: 2
+guid: 1a71fe78ed1fa42a78dba22f3957f793
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 392
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a6caac93aee4afcb75b4ff2e628110
+      internalID: 1253794397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 393
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9951509e0e644458fcd5fa39eb7407
+      internalID: -1187496881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 392
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895e495a2725495fa5d246bdeb1bbeb
+      internalID: 593655984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 392
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c9c3fed63eb4a67b432a674e6d55e2
+      internalID: 373231786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 393
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6db4719f5b040748a48f50070dedf7
+      internalID: -1054834325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 392
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb9cf40ba8bf482399fb878df61142f
+      internalID: 990364592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 393
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a58259e105e2414f94622ec17d4860c
+      internalID: 1749009454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 393
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59580cbfd305246c7bef0eed57a5adb6
+      internalID: 809061370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 392
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c2be171ff84e49ae9393de3d7e66a
+      internalID: -762226538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 291
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a556ae6e6e7af4bc492e78719364dfcd
+      internalID: 1728482185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 290
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acad7a36957843d2b972277e713815f
+      internalID: 843816833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 290
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd16cc00aa7d49a1badd953271dc77f
+      internalID: 1013950407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 290
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f2dc8ebcc024223ab89b86e42403c6
+      internalID: 184681345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 290
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4471169022d3444e19d67aa998478f94
+      internalID: 378517642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 290
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe03b5275773444488edb0a57b5efaa
+      internalID: 720265768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 290
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea95b56fef6f4647a3d10786133fa6a
+      internalID: -1771307249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 290
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621a5b725c4e249e2aff11490723c9a1
+      internalID: 4653145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 290
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac0f5d2af5fd41fcb448331410edf1d
+      internalID: -1663425349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 199
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf21e2c80437e41d28adb68e8d1f3718
+      internalID: 238182629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 199
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b1841ec8ffb4dffadb7229c9b81e44
+      internalID: 364772074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 199
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51160678dbce54d729c1be6602958dca
+      internalID: -549253130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d2f7cbd1232433499bf0585899677c
+      internalID: 943409680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 198
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2a698fafbc847eca811f77bf28b739
+      internalID: -1000656833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 198
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50de5cea7d32244db9898b8db2309e3d
+      internalID: -1681393558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 199
+        width: 23
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd298564112941cf87f6f7060af1b15
+      internalID: -374399280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 198
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4754cbd61bf4c1bb46125f4e7ca303
+      internalID: 1509943677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 199
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fc4c202ded24dfeaf7948100d78532
+      internalID: -694323573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 106
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03923be1ef8854267801237543b53a15
+      internalID: 1820927561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 105
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd6386fdb1454fe2a5e96ca43795bff
+      internalID: 140409917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 105
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a2dba524d3b400691e8f8013178e4e
+      internalID: -642654750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 105
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fe62017bbd6480f89bd8f4fc15a017
+      internalID: -1500242532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 105
+        width: 27
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d1718d60794b8a83c9759b1853f6b
+      internalID: -1594147165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 105
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a82e77dc19544067bcc96628e4fa9b7
+      internalID: 176793905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 105
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f374ad242a4abfb557078a3e74e4a
+      internalID: 1104820514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 105
+        width: 28
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf1ce187d60c4bc1a41ab94c1073a56
+      internalID: 784836839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 104
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e72e67be2b48e1932427cc88d61c5
+      internalID: -1034117730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 60
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cac91752df94e7b8537b9d3fd31282
+      internalID: -286141974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 60
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4c7ec1dd1fb4b2eadc9477b7e931f5
+      internalID: -597715703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21648b1006fed48c4bea7017bc948487
+      internalID: -283961867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 55
+        width: 87
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0250da20ac3bb4b4aa1e743fe652e6b6
+      internalID: -1360420026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 60
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5b485967af04963952d93c6200ee92
+      internalID: -1437627589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 55
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a762098d327b2436e87ae3b1d3172f91
+      internalID: -2121792246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 60
+        width: 119
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff6286e269934826a8bc6acfb4afa1e
+      internalID: -2040125789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_0: 1253794397
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_1: -1187496881
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_10: 843816833
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_11: 1013950407
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_12: 184681345
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_13: 378517642
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_14: 720265768
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_15: -1771307249
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_16: 4653145
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_17: -1663425349
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_18: 238182629
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_19: 364772074
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_2: 593655984
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_20: -549253130
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_21: 943409680
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_22: -1000656833
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_23: -1681393558
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_24: -374399280
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_25: 1509943677
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_26: -694323573
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_27: 1820927561
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_28: 140409917
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_29: -642654750
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_3: 373231786
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_30: -1500242532
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_31: -1594147165
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_32: 176793905
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_33: 1104820514
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_34: 784836839
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_35: -1034117730
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_36: -286141974
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_37: -597715703
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_38: -283961867
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_39: -1360420026
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_4: -1054834325
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_40: -1437627589
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_41: -2121792246
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_42: -2040125789
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_5: 990364592
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_6: 1749009454
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_7: 809061370
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_8: -762226538
+      businessman-character-walk-cycle-animation-sequence-loop-animation-sprite-sheet-vector-W27GY2-removebg-preview_9: 1728482185
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
